@@ -1,3 +1,3 @@
 # College-ShoutBox
-A simple forum like shoutbox for college batchmates developed using PHP, MySQL &amp; Ajax.
+A simple forum like shoutbox for college batchmates developed- HTML, PHP, MySQL &amp; JavaScript.
 **Developed on the year 2011**
